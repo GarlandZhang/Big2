@@ -1,0 +1,13 @@
+How to play
+
+Objective: Deplete your entire hand first and win!
+
+1. The dealer deals 13 cards to each player.
+2. The player that has the 3 of diamonds goes first.
+3. Going in a clockwise direction, each player either: plays a combo or passes.
+   (player starting with 3 of diamonds must play the card, with or without a combo).
+4. Each subsequent player must play a combo of the same type and must be higher;
+   otherwise he/she passes.
+5. When all players pass (except the person who played the card(s) ), a new round begins.
+   Player must play a card(s).
+6. Continue until there is a winner.
